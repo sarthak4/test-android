@@ -1,13 +1,9 @@
-# Android
+Name- Sarthak Sahoo
+email- 22sarthak.sahoo@gmail.com
+Phone No- 9915739499
 
-## Overview
-A blog
+Zoroute App
+email-zorute@gmail.com
+pass-1234567890
 
-## Requirement
-You need to gather the API(s) from the web developer and develop the android app of the blog. Which can
-
-* Signup & Login using the api
-* Post blog content using api
-* Comment on content using api
-
-**Try Kotlin**
+in the blogg activity click on image icon to post any image in the blog
